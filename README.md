@@ -1,1 +1,2 @@
-coding in C
+bit manipulation
+
